@@ -1,3 +1,5 @@
+# 将内容翻译成PDF格式转翻译成中文PDF.
+
 import deepl
 from dotenv import load_dotenv
 import os
