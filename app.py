@@ -14,8 +14,8 @@ auth_key = secret_key
 translator = deepl.Translator(auth_key)
 
 # 指定要翻译的PDF文档的路径和翻译后文档的保存路径
-input_path = "2405.12862v1.pdf"
-output_path = "2405.12862v1.docx"  # 注意：翻译后的文档将是.docx格式
+input_path = "2405.14838v1.pdf"
+output_path = "2405.14838v1.docx"  # 注意：翻译后的文档将是.docx格式
 
 try:
     # 使用translate_document_from_filepath()函数上传和翻译文档
